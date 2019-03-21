@@ -61,7 +61,6 @@ Imagine you want to request an information from a post entity and at the same ti
 
 REST Query
 
-mydomain.com/posts/:id
 mydomain.com/users/:id
 You require two end points in REST, one for retrieving post entity and the other for retrieving the information of post user. The same information can be retrieved in single query using GraphQL. The query is shown below.
 
